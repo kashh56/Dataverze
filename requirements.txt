@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+seaborn
+nltk
+prophet
+tweepy
+dotenv
+plotly

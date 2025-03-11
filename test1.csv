@@ -1,0 +1,8 @@
+Customer_ID,Age,Past_Purchases,Online_Reviews,Purchase_Frequency,Avg_Spend,Location,Last_Purchase_Date
+101,45,"Smartwatch, Gym Bag","Great product, love it!",5,12000,New York,2024-03-01
+102,30,"Organic Food, Subscription Box","Healthy but expensive",3,5000,Los Angeles,2024-02-25
+103,37,"Sneakers, Running Gear","Best running shoes!",6,8000,Chicago,2024-03-05
+104,29,"Movie Tickets, Popcorn Combo","Nice experience!",4,1500,Houston,2024-03-02
+105,50,"Home Decor, Furniture","Quality is top-notch",2,20000,San Francisco,2024-02-15
+106,22,"Fast Food, Coffee","Tastes great but overpriced",10,3000,Miami,2024-03-07
+107,33,"Electronics, Smart TV","Good but slow delivery",3,25000,Seattle,2024-03-04
