@@ -78,14 +78,14 @@ page = st.sidebar.radio("Select Feature", ["📊 Consumer Trend Predictor", "�
 st.sidebar.markdown("<br><br>", unsafe_allow_html=True)
 
 st.sidebar.markdown("<br><br>", unsafe_allow_html=True)
-st.sidebar.image("images/dataverze_logo.png", width=200)
+st.sidebar.image("dataverze_logo.png", width=200)
 st.sidebar.markdown("**Dataverze AI Suite 2025**\n🚀 All Rights Reserved.", unsafe_allow_html=True)
 
 
 # ---- Header Section ----
 st.markdown("<p class='title' style='font-size:40px; font-weight:bold; color:#1F618D; font-family:Arial, sans-serif;'>Dataverze AI Suite 2025</p>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle' style='font-size:25px; font-style:italic; color:#2874A6; font-family:Arial, sans-serif;'>AI-Powered Trends & Sentiment Analytics for Smarter Business Decisions</p>", unsafe_allow_html=True)
-st.image("images/business_insights.jpg", width=400)
+st.image("business_insights.jpg", width=400)
 
 # ---- Consumer Trend Predictor ----
 if page == "📊 Consumer Trend Predictor":
